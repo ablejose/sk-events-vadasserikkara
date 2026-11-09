@@ -1,0 +1,49 @@
+{
+  "slug": "sk-events-vadasserikkara",
+  "name": "SK Events",
+  "shortName": "SK Events",
+  "descriptor": "Event Management",
+  "address": "Thalachira, Vadasserikkara, Keralam 689664",
+  "area": "Thalachira",
+  "city": "Vadasserikkara",
+  "district": "Pathanamthitta",
+  "region": "Kerala",
+  "postalCode": "689664",
+  "geo": {
+    "lat": 9.312803899999999,
+    "lng": 76.82825559999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=9765905326489471678",
+  "phone": "+91 99479 73042",
+  "whatsapp": "919947973042",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "name": "Anjusha Kiran",
+      "rating": 5,
+      "quote": "Thank you so much for the amazingly creative decorations for the Sai Kiran Decorations and party. Both events looked awesome and were exactly how we envisioned it. You were a pleasure to work with and we appreciate your patience and flexibilty throughout..Good and fabulous heard work in your team...keep it up guizz😊🔥🔥🔥❤️❤️❤️"
+    },
+    {
+      "name": "Vishnu Kunjumon",
+      "rating": 5,
+      "quote": "Nice team work and grate price ❤️"
+    },
+    {
+      "name": "anu benny",
+      "rating": 5,
+      "quote": "Nice work budget frndly.... 🥰🥰🥰🥰 Work's are always be frndly An decent....."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://sk-events-vadasserikkara.vercel.app"
+}
